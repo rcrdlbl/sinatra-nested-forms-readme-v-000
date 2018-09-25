@@ -13,7 +13,7 @@ In this lesson, we'll cover nested forms that can create multiple objects.
 4.  Understand how to create a view file that displays the objects back to the user
 5.  Understand how to create two controller actions that serve up the form and
     process the data from the form
-
+ 
 ## Forms That Create Multiple Objects
 
 In web apps, we use forms to create objects. When you fill out a form for a
@@ -368,5 +368,7 @@ available within our view, `student.erb`.
 
 Finally, the controller action loads the erb file `student.erb`, and we can see
 all of the newly-created student and course information in the browser.
+
+readme
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/sinatra-nested-forms-readme'>Sinatra Nested Forms</a> on Learn.co and start learning to code for free.</p>
